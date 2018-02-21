@@ -1,0 +1,14 @@
+# this is cookmod language file.
+
+itemGroup.CookModFood=料理MOD食材
+itemGroup.CookModBlock=料理MODブロック
+itemGroup.CookModTool=料理MODツール
+
+item.TestFood.name=テスト食料
+
+tile.manaita.oak.name=オークのまな板
+tile.manaita.spruce.name=マツのまな板
+tile.manaita.birch.name=シラカバのまな板
+tile.manaita.jungle.name=ジャングルのまな板
+tile.manaita.acacia.name=アカシアのまな板
+tile.manaita.dark_oak.name=ダークオークのまな板
