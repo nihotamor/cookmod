@@ -1,0 +1,6 @@
+{
+	"parent" : "cookmod:block/manaita",
+	"textures" : {
+		"texture" : "blocks/planks_birch"
+	}
+}
