@@ -1,0 +1,14 @@
+# this is cookmod language file.
+
+itemGroup.CookModFood=Cook Mod Food
+itemGroup.CookModBlock=Cook Mod Block
+itemGroup.CookModTool=Cook Mod Tool
+
+item.TestFood.name=Test Food
+
+tile.manaita.oak.name=Oak Cutting Board
+tile.manaita.spruce.name=spruce Cutting Board
+tile.manaita.birch.name=Birch Cutting Board
+tile.manaita.jungle.name=Jungle Cutting Board
+tile.manaita.acacia.name=Acacia Cutting Board
+tile.manaita.dark_oak.name=Dark Oak Cutting Board
