@@ -1,0 +1,20 @@
+{
+	"variants" : {
+		"facing=south,meta=oak" : {"model":"cookmod:block/manaita_oak"},
+		"facing=west,meta=oak" : {"model":"cookmod:block/manaita_oak", "y" : 90},
+		"facing=north,meta=oak" : {"model":"cookmod:block/manaita_oak", "y" : 180},
+		"facing=east,meta=oak" : {"model":"cookmod:block/manaita_oak", "y" : 270},
+		"facing=south,meta=spruce" : {"model":"cookmod:block/manaita_spruce"},
+		"facing=west,meta=spruce" : {"model":"cookmod:block/manaita_spruce", "y" : 90},
+		"facing=north,meta=spruce" : {"model":"cookmod:block/manaita_spruce", "y" : 180},
+		"facing=east,meta=spruce" : {"model":"cookmod:block/manaita_spruce", "y" : 270},
+		"facing=south,meta=birch" : {"model":"cookmod:block/manaita_birch"},
+		"facing=west,meta=birch" : {"model":"cookmod:block/manaita_birch", "y" : 90},
+		"facing=north,meta=birch" : {"model":"cookmod:block/manaita_birch", "y" : 180},
+		"facing=east,meta=birch" : {"model":"cookmod:block/manaita_birch", "y" : 270},
+		"facing=south,meta=jungle" : {"model":"cookmod:block/manaita_jungle"},
+		"facing=west,meta=jungle" : {"model":"cookmod:block/manaita_jungle", "y" : 90},
+		"facing=north,meta=jungle" : {"model":"cookmod:block/manaita_jungle", "y" : 180},
+		"facing=east,meta=jungle" : {"model":"cookmod:block/manaita_jungle", "y" : 270}
+	}
+}
